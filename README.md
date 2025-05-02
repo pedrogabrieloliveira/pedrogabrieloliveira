@@ -4,7 +4,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Pedro Gabriel Oliveira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio técnico em Informática pelo Senac Nações Unidas, o que me proporcionou uma base sólida em fundamentos de tecnologia e lógica de programação. Atualmente, estou cursando Data Science na FIAP, onde aprofundo meus conhecimentos em análise de dados, estatística e programação aplicada. Tenho grande interesse em compreender como a tecnologia pode ser utilizada para transformar dados em soluções estratégicas e tomadas de decisão mais inteligentes.
+Me chamo Pedro Gabriel Oliveira, tenho 17 anos e sou estudante do 3º ano do ensino médio técnico em Informática pelo Senac Nações Unidas. Tenho me dedicado ao estudo da área de dados, com foco em fundamentos de tecnologia, lógica de programação, análise de dados e estatística. Sou interessado em entender como a tecnologia pode ser aplicada para transformar dados em soluções estratégicas, contribuindo para decisões mais inteligentes e eficientes.
 <br/>
 <br/>
 
