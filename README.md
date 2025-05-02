@@ -2,9 +2,9 @@
 
 ---
 
-**`Analista de Dados`**
+**`Engenheiro de dados`**
 
-Me chamo Pedro Gabriel Oliveira, tenho 17 anos e sou estudante do 3º ano do ensino médio técnico em Informática pelo Senac Nações Unidas. Tenho me dedicado ao estudo da área de dados, com foco em fundamentos de tecnologia, lógica de programação, análise de dados e estatística. Sou interessado em entender como a tecnologia pode ser aplicada para transformar dados em soluções estratégicas, contribuindo para decisões mais inteligentes e eficientes.
+Me chamo Pedro Gabriel Oliveira, tenho 17 anos e sou estudante do 3º ano do ensino médio técnico em Informática pelo Senac Nações Unidas. Tenho me dedicado ao estudo da área de dados, com ênfase em Engenharia de Dados, focando em fundamentos de tecnologia, lógica de programação, bancos de dados e processos de ETL. Busco entender como estruturar e otimizar grandes volumes de dados para criar soluções eficazes, permitindo decisões mais estratégicas e eficientes no ambiente corporativo.
 <br/>
 <br/>
 
