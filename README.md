@@ -2,7 +2,7 @@
 
 ---
 
-**`Engenheiro de dados`**
+**`Analista de dados`**
 
 Olá pessoal! Sou Pedro Gabriel, estudante do 3º ano do ensino médio integrado ao curso técnico em Informática pelo SENAC. Tenho me especializado em Análise de Dados, com foco em ferramentas como SQL, Python e Power BI.
 
