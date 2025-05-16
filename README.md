@@ -4,7 +4,14 @@
 
 **`Engenheiro de dados`**
 
-Me chamo Pedro Gabriel Oliveira, tenho 17 anos e sou estudante do 3º ano do ensino médio técnico em Informática pelo Senac Nações Unidas.  Tenho me dedicado ao estudo da área de dados, com ênfase em Engenharia de Dados, focando em fundamentos de tecnologia, lógica de programação, bancos de dados e processos de ETL. Busco entender como estruturar e otimizar grandes volumes de dados para criar soluções eficazes, permitindo decisões mais estratégicas e eficientes no ambiente corporativo.
+Olá pessoal! Sou Pedro Gabriel, estudante do 3º ano do ensino médio integrado ao curso técnico em Informática pelo SENAC. Tenho me especializado em Análise de Dados, com foco em ferramentas como SQL, Python e Power BI.
+
+Durante minha formação, desenvolvi uma base sólida em lógica de programação, estrutura de dados e manipulação de informações. Estou constantemente aprimorando minhas habilidades técnicas e buscando oportunidades para aplicar esse conhecimento em ambientes práticos e profissionais.
+
+Estou sempre em busca de novos aprendizados e desafios que me permitam crescer e aplicar minhas habilidades em projetos inovadores.
+
+
+
 <br/>
 <br/>
 
